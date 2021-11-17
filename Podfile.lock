@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (5.4.4)
+  - IQKeyboardManager (6.5.9)
   - SDWebImage (5.12.1):
     - SDWebImage/Core (= 5.12.1)
   - SDWebImage/Core (5.12.1)
@@ -7,20 +8,23 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire
+  - IQKeyboardManager
   - SDWebImage
   - TOCropViewController
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - IQKeyboardManager
     - SDWebImage
     - TOCropViewController
 
 SPEC CHECKSUMS:
   Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  IQKeyboardManager: 241cc94ccabc9deb8f8bd7d12f00d73288d13ecc
   SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
   TOCropViewController: 3105367e808b7d3d886a74ff59bf4804e7d3ab38
 
-PODFILE CHECKSUM: 55fe26f5e0b9eaaf64c5169959ff2c77b1ab0ba8
+PODFILE CHECKSUM: dd5aa2a0ff0ff30bce8d183540980f7ae84c2180
 
 COCOAPODS: 1.11.2

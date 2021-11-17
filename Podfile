@@ -9,6 +9,7 @@ target 'Task' do
 	pod 'Alamofire'
 	pod 'SDWebImage'
 	pod 'TOCropViewController'
+  pod 'IQKeyboardManager'
 
   target 'TaskTests' do
     inherit! :search_paths
