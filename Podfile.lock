@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.4)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - TOCropViewController (2.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - TOCropViewController
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - TOCropViewController
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  TOCropViewController: 3105367e808b7d3d886a74ff59bf4804e7d3ab38
+
+PODFILE CHECKSUM: 55fe26f5e0b9eaaf64c5169959ff2c77b1ab0ba8
+
+COCOAPODS: 1.11.2
